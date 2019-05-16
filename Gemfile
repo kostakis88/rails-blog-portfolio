@@ -23,6 +23,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'redcarpet', '~> 3.2.2'
 gem 'friendly_id', '~> 5.1'
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
